@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution](https://github.com/kamaleddy/testimonials-grid-section.git)
 - Live Site URL: [My live site](https://kamaleddy.github.io/testimonials-grid-section/)
 
 ## My process
