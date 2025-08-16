@@ -41,7 +41,7 @@ p,
 }
 
 .main {
-  width: min(85%, 1152px);
+  width: min(85%, 72rem);
   margin: 10vh auto;
   display: grid;
   gap: 2em;
